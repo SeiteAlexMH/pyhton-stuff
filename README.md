@@ -1,1 +1,1 @@
-# Some old recursive code from my college course on pyhton
+# Some old recursive code from my college course on python
