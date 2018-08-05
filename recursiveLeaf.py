@@ -3,8 +3,7 @@
 import turtle as t 
 
 def rightleaf(length):    
-  '''recursively draw a leaf that curves to the 
-  right'''    
+  #recursively draw a leaf that curves to the right   
    if length >0.2:        
     t.forward(length/3)        
     t.left(55)        
@@ -19,7 +18,7 @@ def rightleaf(length):
     t.backward(length) 
     
 def leaf(length):    
-  '''The main recursive leaf drawing function, curve to the    left'''    
+  #The main recursive leaf drawing function, curve to the left   
   if length > 0.2:        
     t.forward(length/3)        
     t.right(55)        
