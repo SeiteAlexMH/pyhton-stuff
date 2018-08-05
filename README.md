@@ -1,0 +1,1 @@
+# sierpinsky.py
