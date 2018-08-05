@@ -4,8 +4,7 @@
 import turtle as t 
 import random 
 def drawTree(levels, len, angle,shrink):    
-  ''' draw the tree starting basic value    
-  then randomizes from them '''    
+  # draw the tree starting basic value then randomizes from them    
   if levels > 0:        
     if levels<=3:           
       t.color(0,1,0)        
